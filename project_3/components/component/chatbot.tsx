@@ -14,6 +14,8 @@ export function Chatbot() {
       api: "api/chat",
     });
 
+    console.log(messages);
+
   return (
     <div className="flex flex-col h-[80vh] w-full max-w-[672px] mx-auto bg-background rounded-lg shadow-lg">
       <div className="flex-1 overflow-auto p-6">
