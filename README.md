@@ -2,7 +2,7 @@
 
 An interactive AI-powered chatbot built using **Next.js**, **TypeScript**, and the **Gemini API** by Google. The app delivers real-time streaming responses with a clean, responsive UI — perfect for experimenting with generative AI in modern web apps.
 
-![Preview](https://github.com/Elizabethyonas/ChatBot/tree/main/project_3/public#:~:text=11%20months%20ago-,chatbot%2Dpreview.png,-Add%20files%20via) <!-- Optional screenshot -->
+![Preview](./project_3/public/chatbot-preview.png)
 
 ---
 
